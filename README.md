@@ -25,7 +25,7 @@ Godot and GDScript (a Python-like language) were used for the development of thi
 
 ## Screenshots and Video
 
-To watch a narrated introduction to the game for the explanation of the core mechanics and gameplay loop, visit the YouTube link below:
+To watch a narrated introduction to the game for an explanation of the core mechanics and gameplay loop, visit the YouTube link below:
 
 **https://youtu.be/hFB4NXGmFuY**
 
@@ -52,7 +52,7 @@ Clinical demonstration of Stasis ability:
 
 ## Working Demo
 
-To play a working demo of the game in a web browser -- no downloads required -- visit the link below:
+To play a working, unrestricted demo of the game in a web browser -- no downloads required -- visit the link below:
 
 **https://logandrda.itch.io/tempus-invictus-working-demo**
 
